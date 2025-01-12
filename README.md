@@ -16,10 +16,10 @@ Este proyecto utiliza Pandas para analizar los datos históricos de la recaudaci
 
         ├── archivo concatenado                           # Datos originales unidos en cvs
         ├── src/soporte limpieza                          # Funciones
-        
         ├── Proyecto2-EDA-Ingresos-Publicos-Brasil        # Datos analizados
         ├── README.md                                     # Descripción del proyecto
 
+        Si se necesita el archivo concatenado, solictarmelo por git
 - **Instalación y Requisitos**
 
 	- Python
@@ -34,8 +34,6 @@ Este proyecto utiliza Pandas para analizar los datos históricos de la recaudaci
 
   - Hay varios órganos con desviaciones muy altas respecto a los previsto, por ejemplo el organo 20000, 25000 y 50000. Habría que centrar los recursos de por qué estas desviaciones y si se están cometiendo irregularidades en la recaudadción por parte de la administración.
 
-  -
-   
    
 
 - **Próximos pasos**
